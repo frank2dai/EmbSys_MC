@@ -1,0 +1,34 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"23 mcc_generated_files/device_config.c
+[p x FOSC = INTOSC ]
+"24
+[p x WDTE = OFF ]
+"25
+[p x PWRTE = OFF ]
+"26
+[p x MCLRE = ON ]
+"27
+[p x CP = OFF ]
+"28
+[p x CPD = OFF ]
+"29
+[p x BOREN = ON ]
+"30
+[p x CLKOUTEN = OFF ]
+"31
+[p x IESO = ON ]
+"32
+[p x FCMEN = ON ]
+"35
+[p x WRT = OFF ]
+"36
+[p x VCAPEN = OFF ]
+"37
+[p x PLLEN = OFF ]
+"38
+[p x STVREN = ON ]
+"39
+[p x BORV = LO ]
+"40
+[; ;mcc_generated_files/device_config.c: 40: 
+[p x LVP = ON ]
