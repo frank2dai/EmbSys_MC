@@ -11,7 +11,7 @@
 
  
 //定义全局变量
-int global_num1,global_num2;
+int global_num1,global_num2,global_num3;
  
 //定义函数
 int func(int m  ,int n )
