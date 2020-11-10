@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>My8F-5AW_key_OK</name>
+            <creation-uuid>b9831490-b7e7-4481-b81e-070d9a73868e</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>GB18030</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../../Desktop/MCiic.X</sourceRootElem>
+                <sourceRootElem>C:\Users\Administrator\MPLABXProjects\Mytest1.X - 副本</sourceRootElem>
+                <sourceRootElem>C:\Users\Administrator\MPLABXProjects\My8F-5AW.X</sourceRootElem>
+                <sourceRootElem>C:\Users\Administrator\MPLABXProjects\My8F-5AW_key.X</sourceRootElem>
+                <sourceRootElem>C:\Users\Administrator\MPLABXProjects\My8F-5AW_key_OK.X</sourceRootElem>
+                <sourceRootElem>C:\Users\Administrator\MPLABXProjects\My8F-5AW_key_29.X\My8F-5AW_key_OK.X</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
